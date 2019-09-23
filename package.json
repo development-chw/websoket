@@ -1,0 +1,25 @@
+{
+    "name": "websoket",
+    "version": "1.0.0",
+    "description": "nodejs-websoket",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/development-chw/websoket.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/development-chw/websoket/issues"
+    },
+    "homepage": "https://github.com/development-chw/websoket#readme",
+    "dependencies": {
+        "ejs": "^2.7.1",
+        "koa": "^2.8.1",
+        "koa-router": "^7.4.0",
+        "nodejs-websocket": "^1.7.2"
+    }
+}
