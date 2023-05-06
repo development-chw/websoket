@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/development-chw/websoket#readme",
     "dependencies": {
-        "ejs": "^2.7.1",
+        "ejs": "^3.1.7",
         "koa": "^2.8.1",
         "koa-router": "^7.4.0",
         "nodejs-websocket": "^1.7.2"
